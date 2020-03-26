@@ -1,0 +1,8 @@
+openFrameworks-Info.plist
+Project.xcconfig
+LaserMouse.xcodeproj/
+Makefile
+config.make
+.DS_Store
+*.app
+
